@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DGx/swRItO0zqwZxPWb1hWagH163MpWhZN8qg+fKFGfuvL+FLs71fccbyiwWiAOhE095TyQDa5pq3Qsyg4IL5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rajkumar.s\\source\\repos\\programmerrajkumar\\DesignPatterns\\DesignPatterns\\DesignPatterns.Behavioral\\DesignPatterns.Behavioral.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajkumar.s\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\rajkumar.s\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\rajkumar.s\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

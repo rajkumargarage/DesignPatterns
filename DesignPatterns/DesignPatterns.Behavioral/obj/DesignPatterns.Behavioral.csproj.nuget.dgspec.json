@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rajkumar.s\\source\\repos\\programmerrajkumar\\DesignPatterns\\DesignPatterns\\DesignPatterns.Behavioral\\DesignPatterns.Behavioral.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rajkumar.s\\source\\repos\\programmerrajkumar\\DesignPatterns\\DesignPatterns\\DesignPatterns.Behavioral\\DesignPatterns.Behavioral.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rajkumar.s\\source\\repos\\programmerrajkumar\\DesignPatterns\\DesignPatterns\\DesignPatterns.Behavioral\\DesignPatterns.Behavioral.csproj",
+        "projectName": "DesignPatterns.Behavioral",
+        "projectPath": "C:\\Users\\rajkumar.s\\source\\repos\\programmerrajkumar\\DesignPatterns\\DesignPatterns\\DesignPatterns.Behavioral\\DesignPatterns.Behavioral.csproj",
+        "packagesPath": "C:\\Users\\rajkumar.s\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rajkumar.s\\source\\repos\\programmerrajkumar\\DesignPatterns\\DesignPatterns\\DesignPatterns.Behavioral\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rajkumar.s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "System.Reactive": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
